@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Elga Ayu Kartika</title>
+	Elga Ayu Kartika
 </head>
 <body>
 	
@@ -9,6 +9,5 @@
 	IG : @elgayukrtkaa<br>
 	FB :  elgaayu kartika<br>
 	Alamat: Tarik, Sidoarjo<br>
-	<center>
-</body>
+	
 </html>

@@ -10,4 +10,4 @@
 	FB :  elgaayu kartika<br>
 	Alamat: Tarik, Sidoarjo<br>
 	
-</html>
+
